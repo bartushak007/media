@@ -93,7 +93,7 @@
   }
 
   .third.block .colored {
-    width: 50%;
+    width: calc(100%/3);
   }
 
   .fourth.block .colored:nth-child(1) {
